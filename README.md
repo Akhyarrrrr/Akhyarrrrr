@@ -2,9 +2,7 @@
   
 - 👀 I’m interested in exploring innovative solutions in software engineering, diving deep into web and Android application development, and staying updated with emerging technologies.
   
-- 🌱 I’m currently learning Kotlin for Android development to enhance my expertise in mobile application development.
-  
-- 💞️ I’m looking to collaborate on projects related to web and Android application development.
+- 💞️ I’m looking to collaborate on projects related to web and mobile application development.
   
 - 📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akhyarrr/)
   
