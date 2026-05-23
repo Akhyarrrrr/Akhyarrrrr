@@ -1,7 +1,7 @@
 # Hey, I'm Akhyar 👋
 
 Frontend-focused Full-Stack Web Developer based in Banda Aceh, Indonesia.  
-I build web apps from UI to API — and occasionally fix servers that got injected with gambling scripts at 2am.
+I build web apps from UI to API.
 
 Currently working as IT Staff & Web Administrator at **LPPM Universitas Syiah Kuala**, managing 80+ academic journals on a live production platform.
 
