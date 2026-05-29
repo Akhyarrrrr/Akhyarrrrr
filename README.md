@@ -3,29 +3,30 @@
 Frontend-focused Full-Stack Web Developer based in Banda Aceh, Indonesia.  
 I build web apps from UI to API.
 
-Currently working as IT Staff & Web Administrator at **LPPM Universitas Syiah Kuala**, managing 80+ academic journals on a live production platform.
+Currently working as IT Staff & Web Administrator at **LPPM Universitas Syiah Kuala**, managing 90+ academic journals on a live production platform.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend**
+**Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**Backend**
+**Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-**Database & Cloud**
+**Database & Cloud**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-**DevOps**
+**DevOps**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
@@ -34,20 +35,23 @@ Currently working as IT Staff & Web Administrator at **LPPM Universitas Syiah Ku
 
 ## 🚀 What I'm Working On
 
-- 🔨 Building a fullstack **task management app** (Next.js + Supabase)
-- 🌐 Maintaining **80+ academic journals** at publications.usk.ac.id
-- 📖 Improving my English every day
+- 🏗️ Building a fullstack **task management SaaS** (Next.js + Supabase)
+- 👁️ Implementing **liveness detection** for workforce management system
+- 📖 Managing **90 academic journals** with automated infrastructure monitoring
+- 🎯 Improving my English every day
 
 ---
 
-## 📌 Featured Projects
+## 🔥 Featured Projects
 
-| Project | Stack | Status |
-|---|---|---|
-| [Ilmana Initiative](https://ilmanainitiative.com) | React · Express · MySQL | ✅ Live |
-| Task Manager *(coming soon)* | Next.js · Supabase | 🔨 Building |
-| Employee Leave System (BMKG) | React · Express · MySQL | ✅ Deployed |
-| RWikiStat | React Native · Expo · Firebase | 📱 Published on App Store |
+| Project | Tech Stack | Status | Live |
+|---------|-----------|--------|------|
+| **Presence** | Next.js, face-api.js, pgvector, Web Workers | 🏗️ Building | [GitHub](https://github.com/Akhyarrrrr/presence) |
+| **Taskflow** | Next.js, TypeScript, Supabase | ✅ Live | [Demo](https://taskflow-yar.vercel.app) |
+| **Writly** | Next.js, Supabase, Tiptap | ✅ Live | [Demo](https://writly-yar.vercel.app) |
+| **Ilmana Initiative** | React, Express, MySQL | ✅ Live | [Website](https://ilmanainitiative.com) |
+| **RWikiStat** | React Native, Expo, Firebase | 📱 Published | App Store |
+| **Employee Leave System** | React, Express, MySQL | ✅ Deployed | — |
 
 ---
 
