@@ -1,9 +1,28 @@
-# Hey, I'm Akhyar 👋
+<div align="center">
 
-Frontend-focused Full-Stack Web Developer based in Banda Aceh, Indonesia.  
-I build web apps from UI to API.
+<h1>Akhyar</h1>
+<p><em>Frontend-focused Full-Stack Web Developer</em></p>
 
-Currently working as IT Staff & Web Administrator at **LPPM Universitas Syiah Kuala**, managing 90+ academic journals on a live production platform.
+<p>
+  Banda Aceh, Indonesia &nbsp;·&nbsp;
+  Building web apps from UI to API &nbsp;·&nbsp;
+  Open to remote &amp; onsite roles
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/akhyarrr"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://yarrr-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:ahyar12324@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+<br/>
+
+> Currently on contract managing **90 active academic journals** at LPPM Universitas Syiah Kuala —
+> handling everything from Docker infrastructure to live security incident response.
+
+</div>
 
 ---
 
@@ -21,10 +40,11 @@ Currently working as IT Staff & Web Administrator at **LPPM Universitas Syiah Ku
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 **Database & Cloud**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E699?style=flat&logo=neon&logoColor=black)
 
 **DevOps**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -35,28 +55,20 @@ Currently working as IT Staff & Web Administrator at **LPPM Universitas Syiah Ku
 
 ## 🚀 What I'm Working On
 
-- 🏗️ Building a fullstack **task management SaaS** (Next.js + Supabase)
-- 👁️ Implementing **liveness detection** for workforce management system
-- 📖 Managing **90 academic journals** with automated infrastructure monitoring
+- 🏗️ Finishing **LacakKarirku** — AI-powered job search platform with CV analysis and match scoring
+- 🔒 Running production infrastructure for **90 academic journals** with automated monitoring and security auditing
+- 🌍 Applying for remote frontend/fullstack roles
 - 🎯 Improving my English every day
 
 ---
 
 ## 🔥 Featured Projects
 
-| Project | Tech Stack | Status | Live |
+| Project | Tech Stack | Status | Link |
 |---------|-----------|--------|------|
-| **Presence** | Next.js, face-api.js, pgvector, Web Workers | 🏗️ Building | [GitHub](https://github.com/Akhyarrrrr/presence) |
+| **LacakKarirku** | Next.js, Neon, Drizzle ORM, Clerk, Groq AI | 🏗️ Building | [Demo](https://lacakkarirku.vercel.app) |
+| **Presence** | Next.js, PostgreSQL, pgvector, TensorFlow.js | ✅ Live | [Demo](https://presence-yar.vercel.app/) |
+| **RWikiStat** | React Native, Expo, Firebase | 📱 Published | App Store |
 | **Taskflow** | Next.js, TypeScript, Supabase | ✅ Live | [Demo](https://taskflow-yar.vercel.app) |
 | **Writly** | Next.js, Supabase, Tiptap | ✅ Live | [Demo](https://writly-yar.vercel.app) |
 | **Ilmana Initiative** | React, Express, MySQL | ✅ Live | [Website](https://ilmanainitiative.com) |
-| **RWikiStat** | React Native, Expo, Firebase | 📱 Published | App Store |
-| **Employee Leave System** | React, Express, MySQL | ✅ Deployed | — |
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhyarrr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yarrr-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ahyar12324@gmail.com)
