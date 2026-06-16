@@ -72,9 +72,3 @@
 - 🏗️ Building LacakKarirku, an AI-powered job platform with CV analysis and match scoring
 - 🌍 Actively applying for remote frontend and fullstack roles
 - 🗣️ Sharpening English for international work
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhyarrrrr&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages"/>
-</div>
