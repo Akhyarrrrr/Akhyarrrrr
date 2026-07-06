@@ -6,7 +6,9 @@
 
 <p>Banda Aceh, Indonesia &nbsp;·&nbsp; Open to Remote &amp; Onsite Roles</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=2000&color=36BCF7&center=true&vCenter=true&width=700&lines=Turning+ideas+into+production-ready+web+apps;From+pixel-perfect+UI+to+scalable+API" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=900&lines=%F0%9F%9A%80+Turning+Ideas+Into+Production-Ready+Apps;%E2%9A%A1+Building+Modern+Web+Experiences;%F0%9F%92%BB+Clean+Code+%E2%80%A2+Scalable+Architecture"
+/>
 
 <br/>
 
@@ -57,9 +59,9 @@
 
 | Project | Description | Tech Stack | Status | Link |
 |---------|-------------|-----------|--------|------|
+| **CBT** | Web-based Computer-Based Testing platform featuring question management, exam scheduling, automatic scoring, and student monitoring | React, Vite, Express, MongoDB, | 🚧 On Progress | - |
 | **LacakKarirku** | AI-powered job platform with CV analysis and smart match scoring | Next.js, Neon, Drizzle ORM, Clerk, Groq AI | 🧪 Beta | [Demo](https://lacakkarirku.vercel.app) |
 | **Presence** | Attendance system with face recognition, liveness detection, and real-time dashboard | Next.js, PostgreSQL, pgvector, TensorFlow.js | ✅ Live | [Demo](https://presence-yar.vercel.app/) |
-| **RWikiStat** | Mobile reference app for statistics published on App Store | React Native, Expo, Firebase | 📱 Published | App Store |
 | **Taskflow** | Project and task management with real-time collaboration | Next.js, TypeScript, Supabase | ✅ Live | [Demo](https://taskflow-yar.vercel.app) |
 | **Writly** | Writing platform with rich-text editor and cloud sync | Next.js, Supabase, Tiptap | ✅ Live | [Demo](https://writly-yar.vercel.app) |
 | **Ilmana Initiative** | Organizational website with content management system | React, Express, MySQL | ✅ Live | [Website](https://ilmanainitiative.com) |
