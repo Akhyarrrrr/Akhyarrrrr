@@ -61,9 +61,6 @@
 |---------|-------------|-----------|--------|------|
 | **CBT** | Web-based Computer-Based Testing platform featuring question management, exam scheduling, automatic scoring, and student monitoring | React, Vite, Express, MongoDB, | 🚧 On Progress | - |
 | **LacakKarirku** | AI-powered job platform with CV analysis and smart match scoring | Next.js, Neon, Drizzle ORM, Clerk, Groq AI | 🧪 Beta | [Demo](https://lacakkarirku.vercel.app) |
-| **Presence** | Attendance system with face recognition, liveness detection, and real-time dashboard | Next.js, PostgreSQL, pgvector, TensorFlow.js | ✅ Live | [Demo](https://presence-yar.vercel.app/) |
-| **Taskflow** | Project and task management with real-time collaboration | Next.js, TypeScript, Supabase | ✅ Live | [Demo](https://taskflow-yar.vercel.app) |
-| **Writly** | Writing platform with rich-text editor and cloud sync | Next.js, Supabase, Tiptap | ✅ Live | [Demo](https://writly-yar.vercel.app) |
 | **Ilmana Initiative** | Organizational website with content management system | React, Express, MySQL | ✅ Live | [Website](https://ilmanainitiative.com) |
 
 ---
