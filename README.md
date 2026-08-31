@@ -67,12 +67,39 @@ AI-assisted job-search workspace for CV parsing, multi-source job aggregation, C
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhyarrrrr&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhyarrrrr&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="165" />
-</p>
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhyarrrrr&theme=github_dark"
+  width="100%"
+  alt="Akhyar GitHub Profile Details"
+/>
+
+<br/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akhyarrrrr&theme=github_dark"
+  width="49%"
+  alt="Akhyar GitHub Stats"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhyarrrrr&theme=github_dark"
+  width="49%"
+  alt="Akhyar Top Languages"
+/>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=akhyarrrrr&theme=github-dark-blue&hide_border=true"
+  width="60%"
+  alt="Akhyar GitHub Streak"
+/>
+
+</div>
+
 
 ---
 
