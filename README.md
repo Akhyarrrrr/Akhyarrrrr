@@ -49,20 +49,17 @@ _Software Engineer · Full-Stack Products & Production Systems_
 ### [Gilir](https://gilir.id) - Live Product
 
 Multi-role barbershop operations platform for bookings, walk-ins, live queues, schedules, checkout, and reporting.
-`Next.js` `TypeScript` `Supabase` `PostgreSQL`
 
 Source repository is private.
 
 ### [Presence](https://github.com/Akhyarrrrr/presence) - Public Source
 
 Workforce attendance platform with face verification, demo-grade head-movement liveness gating, server-side vector matching, shifts, realtime monitoring, and PDF reports.
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `pgvector`
 [Live demo](https://presence-yar.vercel.app)
 
 ### [LacakKarirku](https://github.com/Akhyarrrrr/lacakkarirku) - Public Source
 
 AI-assisted job-search workspace for CV parsing, multi-source job aggregation, CV-job matching, application tracking, and follow-up planning.
-`Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM` `Clerk`
 [Live demo](https://lacakkarirku.vercel.app)
 
 ---
@@ -93,7 +90,7 @@ AI-assisted job-search workspace for CV parsing, multi-source job aggregation, C
 <br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=akhyarrrrr&theme=github-dark-blue&hide_border=true"
+  src="https://streak-stats.demolab.com?user=akhyarrrrr&theme=github-dark-blue&hide_border=true&timezone=Asia%2FJakarta"
   width="60%"
   alt="Akhyar GitHub Streak"
 />
