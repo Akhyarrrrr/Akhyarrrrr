@@ -57,13 +57,28 @@ Source repository is private.
 
 Workforce attendance platform with face verification, demo-grade head-movement liveness gating, server-side vector matching, shifts, realtime monitoring, and PDF reports.
 `Next.js` `TypeScript` `Supabase` `PostgreSQL` `pgvector`
-[Live demo](https://presence-yar.vercel.app)
+[Live demo](https://presence.akhyar.dev)
 
 ### [LacakKarirku](https://github.com/Akhyarrrrr/lacakkarirku) - Public Source
 
 AI-assisted job-search workspace for CV parsing, multi-source job aggregation, CV-job matching, application tracking, and follow-up planning.
-`Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM` `Clerk`
-[Live demo](https://lacakkarirku.vercel.app)
+`Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM` `Better Auth`
+[Live demo](https://lacakkarirku.akhyar.dev)
+
+### [Writly](https://github.com/Akhyarrrrr/writly) · [Live demo](https://writly.akhyar.dev)
+
+Multi-author publishing platform with resilient drafts, review-before-publish, revision history, and public author pages.
+`Next.js` `TypeScript` `Supabase` `Tiptap`
+
+### [TaskFlow](https://github.com/Akhyarrrrr/taskflow) · [Live demo](https://taskflow.akhyar.dev)
+
+Personal Kanban for accessible board, column, and task management with database-level user isolation.
+`Next.js` `TypeScript` `Supabase` `dnd-kit`
+
+### [Museum Aceh](https://github.com/Akhyarrrrr/museumAceh) · [Live demo](https://museum-aceh.vercel.app)
+
+Static editorial museum experience for collections, visits, events, and cultural stories.
+`Astro` `TypeScript` `Tailwind CSS` `GSAP`
 
 ---
 
