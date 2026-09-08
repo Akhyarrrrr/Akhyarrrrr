@@ -44,7 +44,7 @@ _Software Engineer · Full-Stack Products & Production Systems_
 <br/><br/>
 
 <img
-  src="https://streak-stats.demolab.com?user=akhyarrrrr&theme=github-dark-blue&hide_border=true&timezone=Asia%2FJakarta"
+  src="https://streak-stats.demolab.com?user=akhyarrrrr&theme=github-dark-blue&hide_border=true&timezone=Asia%2FJakarta&cache=3600"
   width="60%"
   alt="Akhyar GitHub Streak"
 />
