@@ -18,69 +18,6 @@ _Software Engineer · Full-Stack Products & Production Systems_
 
 ---
 
-## 🛠 Tech Stack
-
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
-**Database & Cloud**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-**DevOps & Tools**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
-
----
-
-## 🔥 Featured Projects
-
-### [Gilir](https://gilir.id) - Live Product
-
-Multi-role barbershop operations platform for bookings, walk-ins, live queues, schedules, checkout, and reporting.
-
-Source repository is private.
-
-### [Presence](https://github.com/Akhyarrrrr/presence) - Public Source
-
-Workforce attendance platform with face verification, demo-grade head-movement liveness gating, server-side vector matching, shifts, realtime monitoring, and PDF reports.
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `pgvector`
-[Live demo](https://presence.akhyar.dev)
-
-### [LacakKarirku](https://github.com/Akhyarrrrr/lacakkarirku) - Public Source
-
-AI-assisted job-search workspace for CV parsing, multi-source job aggregation, CV-job matching, application tracking, and follow-up planning.
-`Next.js` `TypeScript` `PostgreSQL` `Drizzle ORM` `Better Auth`
-[Live demo](https://lacakkarirku.akhyar.dev)
-
-### [Writly](https://github.com/Akhyarrrrr/writly) · [Live demo](https://writly.akhyar.dev)
-
-Multi-author publishing platform with resilient drafts, review-before-publish, revision history, and public author pages.
-`Next.js` `TypeScript` `Supabase` `Tiptap`
-
-### [TaskFlow](https://github.com/Akhyarrrrr/taskflow) · [Live demo](https://taskflow.akhyar.dev)
-
-Personal Kanban for accessible board, column, and task management with database-level user isolation.
-`Next.js` `TypeScript` `Supabase` `dnd-kit`
-
-### [Museum Aceh](https://github.com/Akhyarrrrr/museumAceh) · [Live demo](https://museum-aceh.vercel.app)
-
-Static editorial museum experience for collections, visits, events, and cultural stories.
-`Astro` `TypeScript` `Tailwind CSS` `GSAP`
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -116,10 +53,3 @@ Static editorial museum experience for collections, visits, events, and cultural
 
 
 ---
-
-## 🌱 Currently
-
-- 🔒 **Production operations** at LPPM Universitas Syiah Kuala, supporting 80+ active academic journals
-- 🧩 **Remote project delivery** across web, WordPress, backend, data, staging, and client review
-- 🏗️ **Building Gilir** and improving Presence and LacakKarirku as recruiter-ready product case studies
-- 🌍 **Open to remote** Software Engineer, Full-Stack Software Engineer, and Product Engineer opportunities
